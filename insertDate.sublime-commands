@@ -1,0 +1,4 @@
+[
+     {"caption":"Insert Date: Simple","command": "insert_date"},
+    {"caption":"Insert Date: Pop-up","command":"insert_date_panel"}
+]
